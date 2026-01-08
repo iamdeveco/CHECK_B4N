@@ -1133,8 +1133,8 @@ PREMIUM_HTML = """
                 const uidInput = document.getElementById('uid');
                 const uid = uidInput.value.trim();
                 
-                if (!uid.match(/^\d{9,10}$/)) {
-                    alert('Please enter a valid 9-10 digit UID');
+                if (!uid.match(/^\d{8,16}$/)) {
+                    alert('Please enter a valid 8-16 digit UID');
                     return;
                 }
                 

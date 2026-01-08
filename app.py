@@ -907,7 +907,7 @@ PREMIUM_HTML = """
                 <div class="logo-icon">
                     <i class="fas fa-fire"></i>
                 </div>
-                <div class="logo-text">FIREGUARD API v2.0</div>
+                <div class="logo-text">CHECK BAN API v2.0</div>
             </div>
             <p class="tagline">
                 Enhanced Free Fire account analyzer with detailed stats, ban checking, 
@@ -1087,7 +1087,7 @@ PREMIUM_HTML = """
                     </a>
                 </div>
                 <div class="copyright">
-                    © 2024 FireGuard API v2.0. All rights reserved.
+                    © 2024 CHECK BAN API v2.0. All rights reserved.
                 </div>
                 <div class="powered-by">
                     Powered by @dev_eco • Enhanced with new API integration

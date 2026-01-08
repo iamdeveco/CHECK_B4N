@@ -971,9 +971,9 @@ PREMIUM_HTML = """
                             type="text" 
                             id="uid" 
                             class="form-input" 
-                            placeholder="Enter 9-10 digit UID" 
+                            placeholder="Enter 8-16 digit UID" 
                             required
-                            pattern="\\d{9,10}"
+                            pattern="\\d{8,16}"
                         >
                         <small style="color: var(--text-muted); display: block; margin-top: 4px;">
                             Example: 1234567890
